@@ -1,2 +1,3 @@
-# 20_backend_project
-### My 20 backend project with Django
+# First project
+ > Chat App
+ >  project with Django
